@@ -1,18 +1,33 @@
-
 .divClass h1 {
     color: orangered;
 }
 
 #thirdDiv {
-    width: 500px;
-    height: 600px;
+    width: 800px;
+    height: 1150px;
     background-color: peru;
     padding: 50px;
     border: purple 5px solid;
     border-radius: 25px;
-    
+    padding: 50px;
 }
+
 #spanId {
     font-size: 25px;
     margin: 50px;
 }
+
+body {
+    background-image: url(https://image.freepik.com/vector-gratis/fondo-pantalla-movil-cielo-acuarela_79603-597.jpg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.divClass {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
